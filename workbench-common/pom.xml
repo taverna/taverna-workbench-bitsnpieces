@@ -27,36 +27,6 @@
 			<version>${log4j.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>net.sf.taverna.t2.infrastructure</groupId>
-			<artifactId>appconfig</artifactId>
-			<version>${t2.infrastructure.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>net.sf.taverna.t2.infrastructure</groupId>
-			<artifactId>launcher-api</artifactId>
-			<version>${t2.infrastructure.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>net.sf.taverna.t2.infrastructure</groupId>
-			<artifactId>launcher</artifactId>
-			<version>${t2.infrastructure.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>net.sf.taverna.t2.infrastructure</groupId>
-			<artifactId>plugins-api</artifactId>
-			<version>${t2.infrastructure.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>net.sf.taverna.t2.infrastructure</groupId>
-			<artifactId>prelauncher</artifactId>
-			<version>${t2.infrastructure.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>net.sf.taverna.t2.infrastructure</groupId>
-			<artifactId>raven</artifactId>
-			<version>${t2.infrastructure.version}</version>
-		</dependency>
-		<dependency>
 			<groupId>net.sf.taverna.t2.core</groupId>
 			<artifactId>reference-impl</artifactId>
 			<version>${t2.core.version}</version>
