@@ -45,9 +45,10 @@
 		</repository>		
 	</repositories>
 	<scm>
-		<connection>scm:svn:http://taverna.googlecode.com/svn/taverna/products/net.sf.taverna.t2.taverna-workbench/branches/maintenance/</connection>
-		<developerConnection>scm:svn:https://taverna.googlecode.com/svn/taverna/products/net.sf.taverna.t2.taverna-workbench/branches/maintenance/</developerConnection>
-		<url>http://code.google.com/p/taverna/source/browse/#svn/taverna/products/net.sf.taverna.t2.taverna-workbench/branches/maintenance/</url>
+                <connection>scm:git:https://github.com/taverna/taverna-workbench-bitsnpieces.git</connection>
+                <developerConnection>scm:git:ssh://git@github.com:taverna/taverna-workbench-bitsnpieces.git</developerConnection>
+                <url>https://github.com/taverna/taverna-workbench-bitsnpieces</url>
+                <tag>HEAD</tag>
 	</scm>
 	<modules>
 		<module>taverna-product-common</module>
