@@ -44,8 +44,6 @@
 		</repository>		
 	</repositories>
 	<modules>
-    <!--		<module>workbench-common</module> -->
-		<module>workbench-dev</module>
 		<module>taverna-javadocs</module>
 		<module>taverna-workbench-launcher</module>
 	</modules>
