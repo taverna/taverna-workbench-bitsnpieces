@@ -12,13 +12,13 @@
 	<name>Taverna workbench common runtime</name>
 	<dependencies>
 		<dependency>
-			<groupId>commons-httpclient</groupId>
-			<artifactId>commons-httpclient</artifactId>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>com.springsource.org.apache.commons.httpclient</artifactId>
 			<version>${commons.httpclient.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jdom</groupId>
-			<artifactId>jdom</artifactId>
+			<artifactId>com.springsource.org.jdom</artifactId>
 			<version>${jdom.version}</version>
 		</dependency>
 		<dependency>
@@ -36,11 +36,13 @@
 			<artifactId>reference-api</artifactId>
 			<version>${t2.core.version}</version>
 		</dependency>
+    <!--
 		<dependency>
 			<groupId>net.sf.taverna.t2.ui-impl</groupId>
 			<artifactId>data-management-config</artifactId>
 			<version>${t2.ui.impl.version}</version>
 		</dependency>
+    -->
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
